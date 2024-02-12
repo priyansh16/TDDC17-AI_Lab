@@ -4,3 +4,4 @@
 ### Lab 3 - Deep Learning 
 ### Lab 4 - Bayesian Networks
 ### Lab 5 - Reinforcement Learning (Q Learning)
+### Lab 6 - Planning
